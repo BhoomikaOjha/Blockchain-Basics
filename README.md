@@ -1,2 +1,2 @@
 # Blockchain-Basics
-A blockchain implementation that utilizes the proof of work concept and a few hashing algorithms from python's hash_lib.
+A blockchain implementation that utilizes the proof of work concept and a few hashing algorithms from python's hashlib.
